@@ -6,4 +6,5 @@
 - Sensor de luz (Módulo LDR)<br>
 - Sensor de Obstáculo Infravermelho (KY-032)<br>
 - Sensor Ultrassônico (HC-SR04)<br>
-- Sensor de Inclinação com Mercúrio (KY-017)</p>
+- Sensor de Inclinação com Mercúrio (KY-017)<br>
+- Sensor de Toque Capacitivo (TTP223B)</p>
