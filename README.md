@@ -5,4 +5,4 @@
 - Sensor de luz (Módulo LDR)<br>
 - Led Emissor Infravermelho (IR)<br>
 - Micro Servo (SG90)<br>
-- Sensor Ultrassônico HC-SR04</p>
+- Sensor Ultrassônico (HC-SR04)</p>
