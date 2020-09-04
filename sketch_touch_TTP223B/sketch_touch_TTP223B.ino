@@ -11,7 +11,7 @@ void setup() {
 }
 
 void loop() {
-  if (digitalRead(touch) == HIGH) //nível lógico slto significa que algo foi detectado
+  if (digitalRead(touch) == HIGH) //nível lógico alto significa que algo foi detectado
   {
     digitalWrite(led, HIGH); //acende o led caso algo tenha tocado
   }
