@@ -1,5 +1,6 @@
 <h1 align="center">Projetos iniciantes para Arduino</h1>
-<p align="justify">Projetos rápidos e fáceis para começar a usar o Arduino. Componentes utilizados:<br>
+<p align="justify">Projetos rápidos e fáceis para começar a usar o Arduino.<br>
+Componentes utilizados:<br>
 - Arduino UNO
 - LED RGB<br>
 - Micro Servo (SG90)<br>
